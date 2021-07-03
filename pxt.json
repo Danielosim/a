@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "tinkercademy-tinker-kit": "github:tinkertanker/pxt-tinkercademy-tinker-kit#v1.1.1",
-        "servo": "*"
+        "servo": "*",
+        "mbit": "github:lzty634158/yahboom_mbit#7bcd03aacf79a0062f09da3d995c92d183ee2849"
     },
     "files": [
         "main.blocks",
